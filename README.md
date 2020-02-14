@@ -1,6 +1,5 @@
-# Zaliczenie
-Michał Ogrodowicz
-studia niestacjonarne 
-Data Science 
-zadania 
-1, 6, 7, 13, 15, 18, 19, 20,  23, 26, 27, 30, 32
+print("Wprowadz liczbe")
+liczba = int(input())
+for i in range(1, liczba+1):
+  if (liczba%i==0):
+    print(i)
