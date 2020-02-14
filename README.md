@@ -1,0 +1,3 @@
+# Zaliczenie
+michal 
+zadania 
